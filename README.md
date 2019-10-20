@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36a7d3c8-b940-4b22-aa90-eb642bc63d00/deploy-status)](https://app.netlify.com/sites/loving-elion-888f06/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
